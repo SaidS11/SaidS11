@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Said Silva and I'm a student of Computer Engineer who likes to handle the automatization and backend of my projects.
+### Contact Me 👋
 
 <!--
 **SaidS11/SaidS11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
