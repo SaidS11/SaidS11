@@ -1,8 +1,8 @@
 <a href="https://github.com/Yaeger42/projections"><img src="./assets/devops.png"></a>
-<p align="center">
+
 # Hi there 👋
 My name is Said Silva and I'm a student of Computer Engineer who likes to handle the automatization and backend of my projects.
-</p>
+
 ***
 ## Want to know more about me? 👋
 <p align="center">
