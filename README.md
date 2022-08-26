@@ -1,7 +1,7 @@
 <a href="https://github.com/Yaeger42/projections"><img src="./assets/devops.png"></a>
 
 # Hi there 👋
-My name is Said Silva and I'm a student of Computer Engineer who likes to handle the automatization and backend of my projects.
+My name is Said Silva and I'm a student of Computer Engineer who likes to handle the automatization and backend of projects.
 
 ***
 ## Want to know more about me? 👋
@@ -11,8 +11,11 @@ My name is Said Silva and I'm a student of Computer Engineer who likes to handle
   &nbsp;
 
 </p>
+
 ***
-##Main Skills
+
+## Main Skills
+
 <br>
 - Python
 <br>
