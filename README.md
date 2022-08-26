@@ -1,15 +1,18 @@
 <a href="https://github.com/Yaeger42/projections"><img src="./assets/devops.png"></a>
 <p align="center">
-### Hi there 👋
+# Hi there 👋
 My name is Said Silva and I'm a student of Computer Engineer who likes to handle the automatization and backend of my projects.
-### Want to know more about me? 👋
+</p>
+***
+## Want to know more about me? 👋
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/said-silva-chacon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   &nbsp;
 
 </p>
-###Main Skills
+***
+##Main Skills
 <br>
 - Python
 <br>
