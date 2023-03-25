@@ -23,16 +23,16 @@ My name is Said Silva and I'm a student of Computer Engineering who likes to han
 - AWS
 <br>
 <br>
-- Jenkins
+- Typescript
 <br>
 <br>
-- Docker
+- Java
 <br>
 <br>
-- Ansible
+- React
 <br>
 <br>
-- Bash
+- Springboot
 <br>
 
 
