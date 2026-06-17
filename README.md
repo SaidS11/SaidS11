@@ -29,8 +29,8 @@ I enjoy designing APIs, automating workflows, solving system problems, and turni
 
 ### 📫 Connect with me
 
-* LinkedIn: [Your LinkedIn]
-* Email: [Your Email]
+* LinkedIn: https://www.linkedin.com/in/said-silva-chacon
+* Email: said.silva.chacon@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidS11&layout=compact)
 
