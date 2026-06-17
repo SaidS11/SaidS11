@@ -1,41 +1,38 @@
-<a href="https://github.com/Yaeger42/projections"><img src="./assets/devops.png"></a>
-
 # Hi there 👋
-My name is Said Silva and I'm a Software Engineer who likes to handle the automatization and end to end development of projects.
 
-***
-## Want to know more about me? 👋
-<p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/said-silva-chacon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  &nbsp;
+I'm Said Silva, a Software Engineer with a Computer Science background focused on backend systems, cloud infrastructure, and building end-to-end solutions.
 
-</p>
+I enjoy designing APIs, automating workflows, solving system problems, and turning ideas into products. I like understanding how things work under the hood and I naturally gravitate toward building side projects, experimenting with AI tools, and learning new technologies.
 
-***
+### 🚀 Current interests
 
-## Main Skills
+* Backend architecture
+* AI applications and automation
+* Cloud-native systems
+* Scalable APIs and distributed systems
+* Building projects from idea to production
 
-<br>
-- Python
-<br>
-<br>
-- AWS
-<br>
-<br>
-- Typescript
-<br>
-<br>
-- Java
-<br>
-<br>
-- React
-<br>
-<br>
-- Springboot
-<br>
+### 🛠 Main Skills
 
+* Python
+* AWS
+* TypeScript
+* Java
+* React
+* Spring Boot
 
+### 📌 Currently exploring
+
+* AI systems and LLM integrations
+* Event-driven architectures
+* System design and scalability
+
+### 📫 Connect with me
+
+* LinkedIn: [Your LinkedIn]
+* Email: [Your Email]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidS11&layout=compact)
 
 <!--
 **SaidS11/SaidS11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
